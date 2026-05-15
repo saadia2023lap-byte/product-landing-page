@@ -5,4 +5,4 @@ This is one of my projects for the **Responsive Web Design** certification from 
 * **CSS3**
 * **GitHub Pages**(for hosting)
 ### Live Demo
-You can see the project in action here:[Click here to see the site](https://saadia2023lap-byte.github.io/product-landing-page/)
+You can see the project in action here: [Click here to see the site](https://saadia2023lap-byte.github.io/product-landing-page/)
